@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573644499 source:d:\lab1\csp0046\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1573737441 source:d:\lab1\csp0046-s\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574043756 source:d:\lab1\csp0046-d\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573739674 source:d:\lab1\scp0040\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574076398 source:d:\lab1\scp0040-x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

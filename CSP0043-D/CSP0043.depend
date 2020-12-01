@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573979257 source:d:\lab1\csp0043\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574038758 source:d:\lab1\csp0043-s\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574038758 source:d:\lab1\csp0043-d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1574209977 source:d:\lab1\csp0043-x\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
